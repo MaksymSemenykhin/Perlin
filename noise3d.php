@@ -2,6 +2,7 @@
 namespace Perlin\noise3d;
 
 /**
+ * @package Perlin
  * @author ftlmars  <semenihin.maksim@gmail.com>
  */
  
